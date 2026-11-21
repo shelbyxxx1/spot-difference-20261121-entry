@@ -1,0 +1,5 @@
+make.fun submission
+competition: best-spot-the-difference-game-20261121-0451
+submission: 01a1fdbe-d729-76d1-98bd-0247c144c905
+submitted commit: 8228424b0a2fb41407ea2f79a8b9e20a30457cd2
+owner stage: scored (0 failed checks)
